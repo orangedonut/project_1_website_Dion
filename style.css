@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+  background-color: brown;
+  border: 23px dashed orange;
+  padding: 50px;
+  margin: 25px;
+  width: 200px;
+}
+
+h2 {
+  background-color: darkorange
+   ;
+  color: white;
+  border: 3px dashed white;
+  width: 100px;
+  padding: 20px;
+  margin: 10px;
+}
