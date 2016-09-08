@@ -1,23 +1,20 @@
-h1 {
+p {
   color: red;
   background-color:black;
-  border: 23px dashed red;
+  border: 23px dashed ;
   padding: 50px;
   margin: 25px;
-  width: 200px;
+  width: 1500px;
 }
-p {  background-color: darkorange
+ h1 {
    ;
-  color: white;
-  border: 3px dashed white;
+  color: red;
+;
   width: 100px;
   padding: 20px;
   margin: 10px;
 }
-body { background-color: darkorange
-   ;
-  color: white;
-  border: 3px dashed white;
-  width: 1000px;
-  padding: 20px;
-  margin: 10px; }
+body { background-image: url('http://cdn1.mundodastribos.com/721750-Como-descobrir-alergia-de-chocolate-02.jpg');
+  background-repeat;
+  background-attachment: fixed;
+  background-position: center;}
